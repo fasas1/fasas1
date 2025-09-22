@@ -16,20 +16,3 @@ I enjoy creating solutions in **FinTech, Logistics, and Inventory Management**, 
 
 ---
 
-## 📌 Featured Projects
-- [**NeoPay Wallet**](https://github.com/fasas1/NeoPay) — Smart multi-currency wallet with Paystack integration, JWT Auth, real-time notifications.  
-- [**Merchant Inventory API**](https://github.com/fasas1/MerchantWebApi) — Inventory & reseller management system with reporting and Cloudinary integration.  
-- [**BetaLogistics App**](https://github.com/fasas1/BetaLogistics-App) — Real-time logistics tracking using .NET + SignalR + React.  
-
----
-
-## 🌱 Current Focus
-- Building **NeoPay Wallet MVP**  
-- Learning **Docker + CI/CD** for deployment  
-- Preparing for **visa-sponsored .NET developer roles in Europe**  
-
----
-
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/fasas1)  
-- [GitHub](https://github.com/fasas1)  
