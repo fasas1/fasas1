@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fasasi Qasim
+# 👋 Hi, I'm Qasim Fasasi
 
 🚀 **.NET Developer | Building FinTech, Logistics & Inventory Apps | Exploring DevOps (Docker, CI/CD)**  
 
